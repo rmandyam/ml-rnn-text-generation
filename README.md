@@ -17,27 +17,27 @@ As a learning aid, these combinations should provide ample variation and nuances
 </p>
 
 
-##TensorFlow
+## TensorFlow
 <p style="text-align: justify">
 TensorFlow r1.0 with Python 2.7 has been used at the time of writing. As APIs evolve,  in later versions, some methods may be deprecated. Code for all three models RNN, LSTM and GRU exist.
 </p> 
 
-##DL4J
+## DL4J
 <p style="text-align: justify">
 The quickest way to run the code is to copy it into the dl4j-examples directory, make the appropriate package name change and run it within the IDE.  Code for RNN and LSTM exist. At the time of writing,  a native implementation of GRU (without LSTM modification) is not available in DL4J.  
 </p>
 
-##Theano
+## Theano
 <p style="text-align: justify">
 Python 2.7 with Theano 0.8.2 has been used. The LSTM code is adapted and modified from Denny Britz’s Tutorial on RNN.  For the RNN and GRU code see the tutorial. 
 </p>
 
-##Word Vectors
+## Word Vectors
 <p style="text-align: justify">
 A note on word vectors. By default,  vectors from a random word vector space are used. However, if you want to use GloVe vectors, download them into the /data directory and tweak the utils.py code appropriately. As written, ‘case’ in input text is preserved. Available standard GloVe vectors maybe only lower case.  You may have to re-write some code. 
 </p> 
 
-##Usage
+## Usage
 Run the appropriate ‘train’ script to train the model. 
 
 ```
@@ -53,7 +53,7 @@ Run it with the —r RESTORE flag to restore a trained model
 Repository Contents
 
 
-##Acknowledgements
+## Acknowledgements
 The accompanying code is borrowed, adapted and modified from tutorials, github repos, and other online material from the following sources : 
 
 1. tensorflow.org <https://www.tensorflow.org>
@@ -64,6 +64,6 @@ The accompanying code is borrowed, adapted and modified from tutorials, github r
 6. Alex Barron - <https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow>
  
 
-##License
+## License
 The MIT License ,  Copyright(c) 2017 Ramesh Mandyam
 
