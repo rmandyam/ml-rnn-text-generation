@@ -54,12 +54,12 @@ Run it with the —r RESTORE flag to restore a trained model
 ## Acknowledgements
 The accompanying code is borrowed, adapted and modified from tutorials, github repos, and other online material from the following sources : 
 
-1. tensorflow.org <https://www.tensorflow.org>
-2. deeplearning4j.org <https://deeplearning4j.org>
-3. Stanford University - Assignment templates in cs224d/n course NLP with Deep Learning from  <http://web.stanford.edu/class/cs224n/>
-4. Denny Britz - WildML.com - <https://github.com/dennybritz/rnn-tutorial-gru-lstm>
-5. YerevaNN - <https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano>
-6. Alex Barron - <https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow>
+1. <a href="https://www.tensorflow.org">tensorflow.org </a>
+2. <a href="https://deeplearning4j.org"> deeplearning4j.org </a>
+3. <a href="http://web.stanford.edu/class/cs224n/">Stanford University - Assignment templates in cs224d/n course NLP with Deep Learning from  </a>
+4. <a href="https://github.com/dennybritz/rnn-tutorial-gru-lstm"> Denny Britz - github repo </a>
+5. <a href="https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano">YerevaNN - github repo</a>
+6. <a href="https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow">Alex Barron - github repo</a>
  
 
 ## License
