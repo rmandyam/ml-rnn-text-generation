@@ -1,7 +1,7 @@
 # Learning Machine Learning
 
 <p style="text-align: justify">
-The goal of this repository is to serve as a gateway to Machine Learning (ML) by providing code to experiment with. This repository is accompanied by a blog titled “Learning Machine Learning”.
+The goal of this repository is to serve as a gateway to Machine Learning (ML) by providing code to experiment with. This repository is accompanied by a blog titled <a href="https://rmandyam.github.io/machine/learning/2017/05/15/ML-Blog.html">Learning Machine Learning</a>.
 </p>
 
 <p style="text-align: justify">
