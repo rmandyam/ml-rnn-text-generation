@@ -50,8 +50,6 @@ Run it with the —r RESTORE flag to restore a trained model
    For e.g  python train-tf.py --r RESTORE
 ```
 
-Repository Contents
-
 
 ## Acknowledgements
 The accompanying code is borrowed, adapted and modified from tutorials, github repos, and other online material from the following sources : 
